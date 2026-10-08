@@ -26,7 +26,7 @@ The incident required an investigation to determine:
 
 ## Project Report
 📄 View the complete incident response investigation report: 
-https://github.com/amendez136/Incident_Response_Procedures_Project/blob/main/Incident_Response_Project.pdf
+[Incident Response Report](https://github.com/amendez136/Incident_Response_Procedures_Project/blob/main/Incident_Response_Project.pdf)
 
 
 
